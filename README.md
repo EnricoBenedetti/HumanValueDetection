@@ -1,4 +1,4 @@
-# A Hierarchical multi-label text classification approach on the Human Values detection task.
+# A Hierarchical multi-label text classification approach for the Human Values detection task.
 
 Authors: Elisa Ancarani, Enrico Benedetti, Stefano Fantazzini, and Irene Gentilini
 
